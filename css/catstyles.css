@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
-    background-image: url('/assets/img/nyan-cat-1y550aojs77u58wk.jpg');
+    background-image: url('nyan-cat-1y550aojs77u58wk.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     backdrop-filter: blur(10px);
